@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <location when="1804-3-9">Albany March 9, 1804</location>
+    <greeting welcome="dear"> My Dear friend</greeting>
+    <body>
+        <line number="1">I am just going to proceed in the stage for<place type='travel'> New York</place>.</line>
+        <line number="2"> <bold H='dark'>However</bold>, I must endeavor first to give you some account of my journey this
+            far,</line>
+        <line number="3">through a country which was once the seat of your ancestors; but that is
+            now covered with <place  country='travel'>European</place></line>
+        <line number="4">settlements, whose persevering industry has greatly changed the face of the
+            country; and forests</line>
+        <line number="5"> continue to disappear before the efforts of the laborious woodman. Is
+            there any thing in their</line>
+        <line number="6">change to call for the sensations of sorrow in the breast of the
+            <info Zachary='fisher'>philanthropic patriot?</info></line>
+        <line number="7">if there is, it is not because the inanimate clod has changed
+            possessors,</line>
+        <line number="8">or that, what was once an unculti-vated waste, is now covered with human
+            habitations,</line>
+        <line number="9">and rendered abundant in productions for the sustenance and comfort of man; </line>
+        <line number="10">but it is because we have not been sufficiently benefited by the example
+            of that which is worthy and commendable in the character of good Europeans</line>
+        <line number="11">and have been greatly contaminated to the contrary</line>
+        <line number="12">- Had the <sports football='team'>Chiefs</sports>, who relinquished this country, acquired more vir-tuous
+            knowledge from their enlightened neighbours,</line>
+        <line number="13"> they might have obtained such compensation and retained such reserves
+            which properly disposed of after the settle-ment of the country,</line>
+        <line number="14">when the value of land had raised; might have enabled them to have
+            established a</line>
+        <line number="15">fund for the support and promotion of industrious in our present territory
+            But to return to my journey</line>
+        <line number="16"> – I left<place Canada='waterfall'> Niagara</place> and parted with my friends with I know not what mixed
+            impressions of</line>
+        <line number="17"><feelings human='emotions'>joy and grief</feelings> – which seemed to urge me with greater expedition to proceed
+            rendered it</line>
+        <line number="18">exceeding unpleasant for me to make any delay. However as agree-ably as
+            the situation of my mind</line>
+        <line number="19"> would allow of, I passed one day at <unknown quebec='canada?'> Canandarque </unknown>(sp. Canadaque) mostly in
+            the company of <people last='names'>Mr. Mrs. Morris Mr. Greig</people>,</line>
+        <line number="20">a gentleman from <place country='uk'>Scotland</place>, who had always honored (p.12) me with every
+            hospitable and polite attention whenever business called me to these parts.</line>
+        <line number="21">My friend <confused miss='spelledword'>Ihaskoghsage</confused> was not at home,</line>
+        <line number="22"> but I obtained of that which was due a sufficiency to enable me to
+            attempt my voyage from the gentleman who manages his affairs.</line>
+        <line number="23">At the Inn where I stop a <gender boy='son'>Man</gender> put up who told me he was going the way I
+            proposed to go</line>
+        <line number="24">and that I might obtain a passage in his <christmas santa='claus'>sleigh.</christmas> When he had satisfied me,
+            that he would be expeditious,</line>
+        <line number="25">and that I might depend upon the goodness of his <animal back='riding'>horses</animal>, I agreed to go
+            with him.</line>
+        <line number="26">In consequence of changing my mode of travelling from foot to going in a
+            carriage a young lady from our parts then at <unknown quebec='canada?'>Canandarque</unknown> (sp. Canadaque) </line>
+        <line number="27">with a brother, whom I knew proposed going under my protection, </line>
+        <line number="28">to <unknown missedspelled='typo?'>Icohare</unknown> where she had another brother.</line>
+        <line number="29">But unfortunately we were both deceived in the capability of the
+            horses</line>
+        <line number="30">that drew us and shortly after our departure it now ap-peared clear, that
+            unless we obtained</line>
+        <line number="31"> others, we should be sure of a tedious journey.</line>
+        <line number="32">Had I been alone I would have easily remedied this inconvenience by going
+            on foot;</line>
+        <line number="33">but as the <gender women='girl'>Lady</gender> had come under my protection I could not with propriety
+            leave her until we reached her brothers.</line>
+        <line number="34">I endeavored to hire a <christmas santa='claus'>sleigh</christmas>, but none was to be had; so we were
+            constrained to remain with the old man and his sorry nags.</line>
+        <line number="35">The first day we slept at about <info travel='distance'>six miles</info> <place lake='new york state'>East of Cayuga</place>,</line>
+        <line number="36">and the next day at <unknown missedspelled='typo'>Ikanyadares</unknown>, <info travel='distance'>about eighteen miles</info> farther. The snow
+            had fallen very deep, which so increased</line>
+        <line number="37">the difficulty of <distance foot='sleigh'>travelling</distance>, that our man with his <christmas santa='claus'>sleigh</christmas> could hardly be
+            prevailed on to start again, and all attempts to obtain another <christmas santa='claus'>sleigh</christmas> and horses were
+            fruitless.</line>
+        <line number="38">I am apprehend- sive, that contrary to my inclination,</line>
+        <line number="39">my looks betrayed the anxiety of my mind at being detained by the
+            tardiness of our conveyance. </line>
+        <line number="40">The <gender women='girl'>lady</gender> observed she had a brother in law about <info travel='distance
+               '>twenty six miles</info> farther,
+            and that if she could get that far,</line>
+        <line number="41">she would tarry until the<highway cars='trucks'> roads</highway> became better – we set off again,</line>
+        <line number="42">but had not proceeded above <info travel='distance'>five miles</info> when our man expressed his
+            determination of not going any</line>
+        <line number="43">farther. Not finding any horses to hire at the house where we stopped (sp.
+            stopt),</line>
+        <line number="44">I was on my way to the next house to inquire if any might be had there,
+            when I perceived</line>
+    </body>
+</root>
